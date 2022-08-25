@@ -8,6 +8,9 @@ function App() {
 
   return (
     <div className="App">
+      <header>
+        <h1> what are you looking for</h1>
+      </header>
       <div className="nav">
         <h4>Test</h4>
       </div>
